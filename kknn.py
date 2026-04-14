@@ -6,7 +6,8 @@ import requests
 st.set_page_config(page_title="Wiki Link Bot", page_icon="🤖")
 
 HEADERS = {
-    'User-Agent': 'LinkInterwikiBot/3.0 (kontakt: twoj@email.com)'
+    'User-Agent': 'LinkInterwikiBot/3.0 (kontakt: maciek.tomaszek06@gmail.com
+)'
 }
 
 def get_best_qid(title):
